@@ -1,0 +1,25 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 230px;
+    width: 300px;
+}
+
+h4 {
+    font-size: 20px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 16px;
+}
